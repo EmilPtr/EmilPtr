@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!!! I'm a high-school programmer passionate about low-level systems development and backend engineering..<br><br>I tinker primarily in languages like C/C++, Java, Assembly x86, and Go.<br>I love low-level systems development and am dabbling in OS development<br>I am also the programming vice-lead at my FRC team 7902 Markham Firebirds
+Hello!!! I'm a high-school programmer passionate about low-level systems development and backend engineering<br><br>I tinker primarily in languages like C/C++, Java, Assembly x86, and Go.<br>I love low-level systems development and am dabbling in OS development<br>I am also the programming vice-lead at my FRC team 7902 Markham Firebirds
 
 
 ## 🌐 Socials:
