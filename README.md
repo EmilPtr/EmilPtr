@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!!! I'm a high-school programmer passionate about low-level systems development and backend engineering.<br><br>I tinker primarily in languages like C/C++, Java, Assembly x86, and Rust.<br>I love low-level systems development and am dabbling in OS development, reverse engineering, and ethical hacking.<br>I am also the programming vice-lead at my FRC team 7902 Markham Firebirds.
+Hello!!! I'm a high-school programmer passionate about low-level systems development, electronics, embedded systems, and backend engineering.<br><br>I tinker primarily in languages like C/C++, Java, Assembly x86, and Rust, and I often use the STM32 and ATMEGA328P as my main MCUs<br>I love low-level systems development and firmware development, electronics manufacturing, and ethical hacking.<br>I am also the programming vice-lead at my FRC team 7902 Markham Firebirds.
 
 
 ## 🌐 Socials:
