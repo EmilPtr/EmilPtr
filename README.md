@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello!!! I'm a high-school programmer passionate about low-level systems development, electronics, embedded systems, and backend engineering.<br><br>I tinker primarily in languages like C/C++, Java, Assembly x86, and Rust, and I often use the STM32 and ATMEGA328P as my main MCUs<br>I love low-level systems development and firmware development, electronics manufacturing, and ethical hacking.<br>I am also the programming vice-lead at my FRC team 7902 Markham Firebirds.
-
+I'm also an avid hackathon enjoyer! Hmu if you wanna team :]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emil-puthur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LimesLair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilsahel@gmail.com) 
